@@ -1,0 +1,13 @@
+C:\Users\etec\Desktop\Lista BIdu\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe.config
+C:\Users\etec\Desktop\Lista BIdu\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+C:\Users\etec\Desktop\Lista BIdu\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+C:\Users\etec\Desktop\Lista BIdu\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Lista BIdu\Exercicio5\Exercicio5\obj\Debug\Exercicio5.exe
+C:\Users\etec\Desktop\Lista BIdu\Exercicio5\Exercicio5\obj\Debug\Exercicio5.pdb
+E:\Logica De Programação - Bidu\Lista BIdu\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe.config
+E:\Logica De Programação - Bidu\Lista BIdu\Exercicio5\Exercicio5\bin\Debug\Exercicio5.exe
+E:\Logica De Programação - Bidu\Lista BIdu\Exercicio5\Exercicio5\bin\Debug\Exercicio5.pdb
+E:\Logica De Programação - Bidu\Lista BIdu\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csprojAssemblyReference.cache
+E:\Logica De Programação - Bidu\Lista BIdu\Exercicio5\Exercicio5\obj\Debug\Exercicio5.csproj.CoreCompileInputs.cache
+E:\Logica De Programação - Bidu\Lista BIdu\Exercicio5\Exercicio5\obj\Debug\Exercicio5.exe
+E:\Logica De Programação - Bidu\Lista BIdu\Exercicio5\Exercicio5\obj\Debug\Exercicio5.pdb

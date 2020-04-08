@@ -1,0 +1,14 @@
+C:\Users\etec\Desktop\Aula3_Exercicio1_Isak\Area_Do_Circulo\Area_Do_Circulo\bin\Debug\Area_Do_Circulo.exe.config
+C:\Users\etec\Desktop\Aula3_Exercicio1_Isak\Area_Do_Circulo\Area_Do_Circulo\bin\Debug\Area_Do_Circulo.exe
+C:\Users\etec\Desktop\Aula3_Exercicio1_Isak\Area_Do_Circulo\Area_Do_Circulo\bin\Debug\Area_Do_Circulo.pdb
+C:\Users\etec\Desktop\Aula3_Exercicio1_Isak\Area_Do_Circulo\Area_Do_Circulo\obj\Debug\Area_Do_Circulo.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Aula3_Exercicio1_Isak\Area_Do_Circulo\Area_Do_Circulo\obj\Debug\Area_Do_Circulo.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Aula3_Exercicio1_Isak\Area_Do_Circulo\Area_Do_Circulo\obj\Debug\Area_Do_Circulo.exe
+C:\Users\etec\Desktop\Aula3_Exercicio1_Isak\Area_Do_Circulo\Area_Do_Circulo\obj\Debug\Area_Do_Circulo.pdb
+E:\Logica De Programação - Bidu\Aula 3\Aula3_Exercicio1\Area_Do_Circulo\Area_Do_Circulo\bin\Debug\Area_Do_Circulo.exe.config
+E:\Logica De Programação - Bidu\Aula 3\Aula3_Exercicio1\Area_Do_Circulo\Area_Do_Circulo\bin\Debug\Area_Do_Circulo.exe
+E:\Logica De Programação - Bidu\Aula 3\Aula3_Exercicio1\Area_Do_Circulo\Area_Do_Circulo\bin\Debug\Area_Do_Circulo.pdb
+E:\Logica De Programação - Bidu\Aula 3\Aula3_Exercicio1\Area_Do_Circulo\Area_Do_Circulo\obj\Debug\Area_Do_Circulo.csprojAssemblyReference.cache
+E:\Logica De Programação - Bidu\Aula 3\Aula3_Exercicio1\Area_Do_Circulo\Area_Do_Circulo\obj\Debug\Area_Do_Circulo.csproj.CoreCompileInputs.cache
+E:\Logica De Programação - Bidu\Aula 3\Aula3_Exercicio1\Area_Do_Circulo\Area_Do_Circulo\obj\Debug\Area_Do_Circulo.exe
+E:\Logica De Programação - Bidu\Aula 3\Aula3_Exercicio1\Area_Do_Circulo\Area_Do_Circulo\obj\Debug\Area_Do_Circulo.pdb

@@ -1,0 +1,7 @@
+E:\Logica De Programação - Bidu\Aula 8\Aula8_Exercicio3\Aula8_Exercicio3\obj\Debug\Aula8_Exercicio3.csproj.CoreCompileInputs.cache
+E:\Logica De Programação - Bidu\Aula 8\Aula8_Exercicio3\Aula8_Exercicio3\bin\Debug\Aula8_Exercicio3.exe.config
+E:\Logica De Programação - Bidu\Aula 8\Aula8_Exercicio3\Aula8_Exercicio3\bin\Debug\Aula8_Exercicio3.exe
+E:\Logica De Programação - Bidu\Aula 8\Aula8_Exercicio3\Aula8_Exercicio3\bin\Debug\Aula8_Exercicio3.pdb
+E:\Logica De Programação - Bidu\Aula 8\Aula8_Exercicio3\Aula8_Exercicio3\obj\Debug\Aula8_Exercicio3.exe
+E:\Logica De Programação - Bidu\Aula 8\Aula8_Exercicio3\Aula8_Exercicio3\obj\Debug\Aula8_Exercicio3.pdb
+E:\Logica De Programação - Bidu\Aula 8\Aula8_Exercicio3\Aula8_Exercicio3\obj\Debug\Aula8_Exercicio3.csprojAssemblyReference.cache

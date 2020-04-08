@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\Nova pasta\Aula3_Exercicio2\Aula3_Exercicio2\bin\Debug\Aula3_Exercicio2.exe.config
+C:\Users\etec\Desktop\Nova pasta\Aula3_Exercicio2\Aula3_Exercicio2\bin\Debug\Aula3_Exercicio2.exe
+C:\Users\etec\Desktop\Nova pasta\Aula3_Exercicio2\Aula3_Exercicio2\bin\Debug\Aula3_Exercicio2.pdb
+C:\Users\etec\Desktop\Nova pasta\Aula3_Exercicio2\Aula3_Exercicio2\obj\Debug\Aula3_Exercicio2.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Nova pasta\Aula3_Exercicio2\Aula3_Exercicio2\obj\Debug\Aula3_Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Nova pasta\Aula3_Exercicio2\Aula3_Exercicio2\obj\Debug\Aula3_Exercicio2.exe
+C:\Users\etec\Desktop\Nova pasta\Aula3_Exercicio2\Aula3_Exercicio2\obj\Debug\Aula3_Exercicio2.pdb

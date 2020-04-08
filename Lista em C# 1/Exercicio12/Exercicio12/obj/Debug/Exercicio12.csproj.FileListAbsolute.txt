@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\Lista Bidu\Exercicio12\Exercicio12\bin\Debug\Exercicio12.exe.config
+C:\Users\etec\Desktop\Lista Bidu\Exercicio12\Exercicio12\bin\Debug\Exercicio12.exe
+C:\Users\etec\Desktop\Lista Bidu\Exercicio12\Exercicio12\bin\Debug\Exercicio12.pdb
+C:\Users\etec\Desktop\Lista Bidu\Exercicio12\Exercicio12\obj\Debug\Exercicio12.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Lista Bidu\Exercicio12\Exercicio12\obj\Debug\Exercicio12.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Lista Bidu\Exercicio12\Exercicio12\obj\Debug\Exercicio12.exe
+C:\Users\etec\Desktop\Lista Bidu\Exercicio12\Exercicio12\obj\Debug\Exercicio12.pdb

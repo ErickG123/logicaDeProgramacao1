@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\Bidu\Exercicio14\Exercicio14\bin\Debug\Exercicio14.exe.config
+C:\Users\etec\Desktop\Bidu\Exercicio14\Exercicio14\bin\Debug\Exercicio14.exe
+C:\Users\etec\Desktop\Bidu\Exercicio14\Exercicio14\bin\Debug\Exercicio14.pdb
+C:\Users\etec\Desktop\Bidu\Exercicio14\Exercicio14\obj\Debug\Exercicio14.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Bidu\Exercicio14\Exercicio14\obj\Debug\Exercicio14.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Bidu\Exercicio14\Exercicio14\obj\Debug\Exercicio14.exe
+C:\Users\etec\Desktop\Bidu\Exercicio14\Exercicio14\obj\Debug\Exercicio14.pdb

@@ -1,0 +1,7 @@
+E:\Logica De Programação - Bidu\Aula 14\Aula14_Exercicio1\Aula14_Exercicio1\bin\Debug\Aula14_Exercicio1.exe.config
+E:\Logica De Programação - Bidu\Aula 14\Aula14_Exercicio1\Aula14_Exercicio1\bin\Debug\Aula14_Exercicio1.exe
+E:\Logica De Programação - Bidu\Aula 14\Aula14_Exercicio1\Aula14_Exercicio1\bin\Debug\Aula14_Exercicio1.pdb
+E:\Logica De Programação - Bidu\Aula 14\Aula14_Exercicio1\Aula14_Exercicio1\obj\Debug\Aula14_Exercicio1.csprojAssemblyReference.cache
+E:\Logica De Programação - Bidu\Aula 14\Aula14_Exercicio1\Aula14_Exercicio1\obj\Debug\Aula14_Exercicio1.csproj.CoreCompileInputs.cache
+E:\Logica De Programação - Bidu\Aula 14\Aula14_Exercicio1\Aula14_Exercicio1\obj\Debug\Aula14_Exercicio1.exe
+E:\Logica De Programação - Bidu\Aula 14\Aula14_Exercicio1\Aula14_Exercicio1\obj\Debug\Aula14_Exercicio1.pdb

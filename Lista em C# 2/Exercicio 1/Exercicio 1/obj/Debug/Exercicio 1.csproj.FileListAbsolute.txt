@@ -1,0 +1,7 @@
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe.config
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.exe
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 1\Exercicio 1\bin\Debug\Exercicio 1.pdb
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.csprojAssemblyReference.cache
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.csproj.CoreCompileInputs.cache
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.exe
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 1\Exercicio 1\obj\Debug\Exercicio 1.pdb

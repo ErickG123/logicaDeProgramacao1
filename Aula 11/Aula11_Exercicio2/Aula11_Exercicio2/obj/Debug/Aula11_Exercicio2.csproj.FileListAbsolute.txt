@@ -1,0 +1,7 @@
+E:\Logica De Programação - Bidu\Aula 11\Aula11_Exercicio2\Aula11_Exercicio2\bin\Debug\Aula11_Exercicio2.exe.config
+E:\Logica De Programação - Bidu\Aula 11\Aula11_Exercicio2\Aula11_Exercicio2\bin\Debug\Aula11_Exercicio2.exe
+E:\Logica De Programação - Bidu\Aula 11\Aula11_Exercicio2\Aula11_Exercicio2\bin\Debug\Aula11_Exercicio2.pdb
+E:\Logica De Programação - Bidu\Aula 11\Aula11_Exercicio2\Aula11_Exercicio2\obj\Debug\Aula11_Exercicio2.csprojAssemblyReference.cache
+E:\Logica De Programação - Bidu\Aula 11\Aula11_Exercicio2\Aula11_Exercicio2\obj\Debug\Aula11_Exercicio2.csproj.CoreCompileInputs.cache
+E:\Logica De Programação - Bidu\Aula 11\Aula11_Exercicio2\Aula11_Exercicio2\obj\Debug\Aula11_Exercicio2.exe
+E:\Logica De Programação - Bidu\Aula 11\Aula11_Exercicio2\Aula11_Exercicio2\obj\Debug\Aula11_Exercicio2.pdb

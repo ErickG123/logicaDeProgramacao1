@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\Lista Bidu\Exercicio8\Exercicio8\bin\Debug\Exercicio8.exe.config
+C:\Users\etec\Desktop\Lista Bidu\Exercicio8\Exercicio8\bin\Debug\Exercicio8.exe
+C:\Users\etec\Desktop\Lista Bidu\Exercicio8\Exercicio8\bin\Debug\Exercicio8.pdb
+C:\Users\etec\Desktop\Lista Bidu\Exercicio8\Exercicio8\obj\Debug\Exercicio8.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Lista Bidu\Exercicio8\Exercicio8\obj\Debug\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Lista Bidu\Exercicio8\Exercicio8\obj\Debug\Exercicio8.exe
+C:\Users\etec\Desktop\Lista Bidu\Exercicio8\Exercicio8\obj\Debug\Exercicio8.pdb

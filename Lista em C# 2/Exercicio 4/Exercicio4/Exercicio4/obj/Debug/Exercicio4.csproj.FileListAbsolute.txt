@@ -1,0 +1,7 @@
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 4\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe.config
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 4\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 4\Exercicio4\Exercicio4\bin\Debug\Exercicio4.pdb
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 4\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csprojAssemblyReference.cache
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 4\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.CoreCompileInputs.cache
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 4\Exercicio4\Exercicio4\obj\Debug\Exercicio4.exe
+E:\Logica De Programação - Bidu\Lista Bidu 2\Exercicio 4\Exercicio4\Exercicio4\obj\Debug\Exercicio4.pdb

@@ -1,0 +1,7 @@
+C:\Users\etec\Desktop\Nova pasta\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe.config
+C:\Users\etec\Desktop\Nova pasta\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe
+C:\Users\etec\Desktop\Nova pasta\Exercicio10\Exercicio10\bin\Debug\Exercicio10.pdb
+C:\Users\etec\Desktop\Nova pasta\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csprojAssemblyReference.cache
+C:\Users\etec\Desktop\Nova pasta\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\Nova pasta\Exercicio10\Exercicio10\obj\Debug\Exercicio10.exe
+C:\Users\etec\Desktop\Nova pasta\Exercicio10\Exercicio10\obj\Debug\Exercicio10.pdb

@@ -1,0 +1,7 @@
+C:\Users\rogerio.furlan\Desktop\exercicios for\ex1\ex1\bin\Debug\ex1.exe.config
+C:\Users\rogerio.furlan\Desktop\exercicios for\ex1\ex1\bin\Debug\ex1.exe
+C:\Users\rogerio.furlan\Desktop\exercicios for\ex1\ex1\bin\Debug\ex1.pdb
+C:\Users\rogerio.furlan\Desktop\exercicios for\ex1\ex1\obj\Debug\ex1.csprojAssemblyReference.cache
+C:\Users\rogerio.furlan\Desktop\exercicios for\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\rogerio.furlan\Desktop\exercicios for\ex1\ex1\obj\Debug\ex1.exe
+C:\Users\rogerio.furlan\Desktop\exercicios for\ex1\ex1\obj\Debug\ex1.pdb
